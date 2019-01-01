@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525338702 source:c:\users\geeta\desktop\4th sem\labs\graphics\graphics_lab\1671.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	<cmath>
+
+1525338608 source:c:\users\geeta\desktop\4th sem\labs\graphics\graphics_lab\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	<cmath>
+
+1525339060 source:c:\users\geeta\desktop\4th sem\labs\graphics\graphics_lab\pendulum.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	<cmath>
+
+1525339328 source:c:\users\geeta\desktop\4th sem\labs\graphics\graphics_lab\pendulum_test.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	<cmath>
+
